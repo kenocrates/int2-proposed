@@ -1,12 +1,12 @@
 file
 
-feature1a
+feature1
 
-feature2a
+feature2
 
-feature3a
+feature3
 
-feature4a
+feature4
 
-feature5a
-
+feature5
+added
