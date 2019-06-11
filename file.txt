@@ -1,7 +1,7 @@
 file
 
 feature1
-
+added
 feature2
 
 feature3
